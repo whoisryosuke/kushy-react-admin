@@ -1,1 +1,7 @@
-## v0.0.0 - July 17th, 2018
+## v0.0.1 - July 17th, 2018
+
+- Added /brands/ endpoint
+- Added /products/ endpoint
+- Added /shops/ endpoint
+- Added /strains/ endpoint
+- Added /photos/ endpoint
